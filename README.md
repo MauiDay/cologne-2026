@@ -1,5 +1,5 @@
 
-<p align="center"><img style="width: 400px;" src="images/cologne26.png" /></p>
+<p align="center"><img style="width: 400px;" src="Images/cologne26.png" /></p>
 
 # MAUI Day Cologne
 All slides and relevant things from .NET MAUI Day 2026. The event was held on October 23rd, 2026 @ the Microsoft Office in Cologne.
@@ -16,7 +16,7 @@ The sessions are in chronological order.
 
 ## Building the Next Generation of Apps with .NET MAUI
 
-<img src="images/GeraldVersluis.png" width="120" alt="Gerald Versluis" />
+<img src="Images/GeraldVersluis.png" width="120" alt="Gerald Versluis" />
 
 **Speaker:** Gerald Versluis
 
@@ -30,7 +30,7 @@ Whether you are building consumer apps, enterprise tools, internal productivity 
   
 ## .NET MAUI 11: Focused on Perf
 
-<img src="images/SimonRozsival.jpg" width="120" alt="Simon Rozsival" />
+<img src="Images/SimonRozsival.jpg" width="120" alt="Simon Rozsival" />
 
 **Speaker:** Simon Rozsival
 
@@ -46,7 +46,7 @@ You'll leave understanding what's happening under the hood and with a concrete c
   
 ## Bulletproof .NET MAUI: Building Apps That Don't Crash
 
-<img src="images/MichałPobuta.jpg" width="120" alt="Michał Pobuta" />
+<img src="Images/MichałPobuta.jpg" width="120" alt="Michał Pobuta" />
 
 **Speaker:** Michał Pobuta
 
@@ -64,7 +64,7 @@ In this session, I'll show concrete patterns and tools that make .NET MAUI apps 
   
 ## Building with AI at the Edge
 
-<img src="images/DavidOrtinau.jpg" width="120" alt="David Ortinau" />
+<img src="Images/DavidOrtinau.jpg" width="120" alt="David Ortinau" />
 
 **Speaker:** David Ortinau
 
@@ -74,7 +74,7 @@ Nobody can really predict what app development will look like in the next weeks 
   
 ## One Screen, Every Device: State Triggers and the Visual State Manager in .NET MAUI
 
-<img src="images/AlmirVuk.png" width="120" alt="Almir Vuk" />
+<img src="Images/AlmirVuk.png" width="120" alt="Almir Vuk" />
 
 **Speaker:** Almir Vuk
 
@@ -90,7 +90,7 @@ You'll leave knowing which tool to reach for, and when.
   
 ## Keep writing code. Stop typing it. Massively distributed live coding with AI
 
-<img src="images/StéphaneDelcroix.jpg" width="120" alt="Stéphane Delcroix" />
+<img src="Images/StéphaneDelcroix.jpg" width="120" alt="Stéphane Delcroix" />
 
 **Speaker:** Stéphane Delcroix
 
@@ -100,7 +100,7 @@ Engineers of the MAUI team, present and remotes, will live code an app. You'll s
   
 ## .NET MAUI Q&A Panel
 
-<img src="images/DavidOrtinau.jpg" width="120" alt="David Ortinau" /> <img src="images/GeraldVersluis.png" width="120" alt="Gerald Versluis" /> <img src="images/StéphaneDelcroix.jpg" width="120" alt="Stéphane Delcroix" /> <img src="images/SimonRozsival.jpg" width="120" alt="Simon Rozsival" /> <img src="images/MaddyMontaquila.jpg" width="120" alt="Maddy Montaquila" />
+<img src="Images/DavidOrtinau.jpg" width="120" alt="David Ortinau" /> <img src="Images/GeraldVersluis.png" width="120" alt="Gerald Versluis" /> <img src="Images/StéphaneDelcroix.jpg" width="120" alt="Stéphane Delcroix" /> <img src="Images/SimonRozsival.jpg" width="120" alt="Simon Rozsival" /> <img src="Images/MaddyMontaquila.jpg" width="120" alt="Maddy Montaquila" />
 
 **Speakers:** David Ortinau, Gerald Versluis, Stéphane Delcroix, Simon Rozsival, Maddy Montaquila
 
