@@ -48,7 +48,7 @@ You'll leave understanding what's happening under the hood and with a concrete c
 
 <img src="Images/MichałPobuta.jpg" width="120" alt="Michał Pobuta" />
 
-**Speaker:** Michał Pobuta
+**Speaker:** Michał Pobuta &nbsp;·&nbsp; **GitHub:** [michalpobuta/Crashless](https://github.com/michalpobuta/Crashless)
 
 Every mobile app crashes at some point. The question isn't "whether" — it's "how often" and "whether you even know about it."
 
@@ -76,7 +76,7 @@ Nobody can really predict what app development will look like in the next weeks 
 
 <img src="Images/AlmirVuk.png" width="120" alt="Almir Vuk" />
 
-**Speaker:** Almir Vuk
+**Speaker:** Almir Vuk &nbsp;·&nbsp; **Site:** [almirvuk.com](https://almirvuk.com/) &nbsp;·&nbsp; **GitHub:** [almirvuk/maui-adaptive-ui-triggers](https://github.com/almirvuk/maui-adaptive-ui-triggers)
 
 Your app looks perfect on the phone emulator. Then someone rotates the device, resizes the desktop window, or opens it on a tablet... and the layout falls apart.
 
@@ -92,7 +92,7 @@ You'll leave knowing which tool to reach for, and when.
 
 <img src="Images/StéphaneDelcroix.jpg" width="120" alt="Stéphane Delcroix" />
 
-**Speaker:** Stéphane Delcroix
+**Speaker:** Stéphane Delcroix &nbsp;·&nbsp; **GitHub:** [StephaneDelcroix/BooRoute](https://github.com/StephaneDelcroix/BooRoute)
 
 Engineers of the MAUI team, present and remotes, will live code an app. You'll see their funky prompting styles, the way they yell at copilot, and what can be achieved in a session. Interact live, or send pull-requests.
    
