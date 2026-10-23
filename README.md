@@ -1,5 +1,5 @@
 
-<p align="center"><img style="width: 400px;" src="Images/cologne26.png" /></p>
+<p align="center"><img style="width: 400px;" src="Images/cologne26.png" alt=".NET MAUI Day Cologne 2026" /></p>
 
 # MAUI Day Cologne
 All slides and relevant things from .NET MAUI Day 2026. The event was held on October 23rd, 2026 @ the Microsoft Office in Cologne.
