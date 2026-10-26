@@ -18,7 +18,7 @@ The sessions are in chronological order.
 
 <img src="Images/GeraldVersluis.png" width="120" alt="Gerald Versluis" />
 
-**Speaker:** Gerald Versluis
+**Speaker:** Gerald Versluis &nbsp;·&nbsp; **Blog:** [blog.verslu.is](https://blog.verslu.is/) &nbsp;·&nbsp; **YouTube:** [GeraldVersluis](https://www.youtube.com/c/GeraldVersluis)
 
 .NET MAUI continues to evolve as the modern .NET framework for building native, cross-platform apps. With .NET 11 rapidly approaching, this keynote looks at where .NET MAUI stands today, what is coming next, and how it fits into the future of mobile and desktop development.
 
@@ -102,7 +102,7 @@ Engineers of the MAUI team, present and remotes, will live code an app. You'll s
 
 <img src="Images/DavidOrtinau.jpg" width="120" alt="David Ortinau" /> <img src="Images/GeraldVersluis.png" width="120" alt="Gerald Versluis" /> <img src="Images/StéphaneDelcroix.jpg" width="120" alt="Stéphane Delcroix" /> <img src="Images/SimonRozsival.jpg" width="120" alt="Simon Rozsival" /> <img src="Images/MaddyMontaquila.jpg" width="120" alt="Maddy Montaquila" />
 
-**Speakers:** David Ortinau, Gerald Versluis, Stéphane Delcroix, Simon Rozsival, Maddy Montaquila
+**Speakers:** David Ortinau, Gerald Versluis, Stéphane Delcroix, Simon Rozsival, Maddy Montaquila &nbsp;·&nbsp; **MAUIverse:** [Community Standup](https://mauiverse.net/community-standup/)
 
 This was your chance to put your burning questions to the MAUI team.
 
