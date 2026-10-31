@@ -18,7 +18,7 @@ The sessions are in chronological order.
 
 <img src="Images/GeraldVersluis.png" width="120" alt="Gerald Versluis" />
 
-**Speaker:** Gerald Versluis &nbsp;·&nbsp; **Blog:** [blog.verslu.is](https://blog.verslu.is/) &nbsp;·&nbsp; **YouTube:** [GeraldVersluis](https://www.youtube.com/c/GeraldVersluis)
+**Speaker:** Gerald Versluis &nbsp;·&nbsp; **Slides:** [whatsnewinmauifornet11.pdf](GeraldVersluis/whatsnewinmauifornet11.pdf) &nbsp;·&nbsp; **Blog:** [blog.verslu.is](https://blog.verslu.is/) &nbsp;·&nbsp; **YouTube:** [GeraldVersluis](https://www.youtube.com/c/GeraldVersluis)
 
 .NET MAUI continues to evolve as the modern .NET framework for building native, cross-platform apps. With .NET 11 rapidly approaching, this keynote looks at where .NET MAUI stands today, what is coming next, and how it fits into the future of mobile and desktop development.
 
