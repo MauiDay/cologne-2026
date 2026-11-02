@@ -18,7 +18,7 @@ The sessions are in chronological order.
 
 <img src="Images/GeraldVersluis.png" width="120" alt="Gerald Versluis" />
 
-**Speaker:** Gerald Versluis &nbsp;·&nbsp; **readme:** [readme](GeraldVersluis/README.md) &nbsp;·&nbsp; **Slides:** [GeraldVersluis/whatsnewinmauifornet11.pdf](GeraldVersluis/whatsnewinmauifornet11.pdf) &nbsp;·&nbsp; **Blog:** [blog.verslu.is](https://blog.verslu.is/) &nbsp;·&nbsp; **YouTube:** [GeraldVersluis](https://www.youtube.com/c/GeraldVersluis)
+**Speaker:** Gerald Versluis &nbsp;·&nbsp; **[Readme](GeraldVersluis/README.md)** &nbsp;·&nbsp; **Slides:** [GeraldVersluis/whatsnewinmauifornet11.pdf](GeraldVersluis/whatsnewinmauifornet11.pdf) &nbsp;·&nbsp; **Blog:** [blog.verslu.is](https://blog.verslu.is/) &nbsp;·&nbsp; **YouTube:** [GeraldVersluis](https://www.youtube.com/c/GeraldVersluis)
 
 .NET MAUI continues to evolve as the modern .NET framework for building native, cross-platform apps. With .NET 11 rapidly approaching, this keynote looks at where .NET MAUI stands today, what is coming next, and how it fits into the future of mobile and desktop development.
 
@@ -66,7 +66,7 @@ In this session, I'll show concrete patterns and tools that make .NET MAUI apps 
 
 <img src="Images/DavidOrtinau.jpg" width="120" alt="David Ortinau" />
 
-**Speaker:** David Ortinau &nbsp;·&nbsp; **readme:** [readme](DavidOrtinau/ReadMe.md) &nbsp;·&nbsp; **Slides:** [2026-10-23-maui-day-cologne-ai-at-the-edge.pptx](DavidOrtinau/2026-10-23-maui-day-cologne-ai-at-the-edge.pptx)
+**Speaker:** David Ortinau &nbsp;·&nbsp; **[Readme](DavidOrtinau/ReadMe.md)** &nbsp;·&nbsp; **Slides:** [2026-10-23-maui-day-cologne-ai-at-the-edge.pptx](DavidOrtinau/2026-10-23-maui-day-cologne-ai-at-the-edge.pptx)
 
 Nobody can really predict what app development will look like in the next weeks and months exactly. The same skills that helped you grow and excel through every technology release and minor or major shift in the mobile race, those skills are what will make you successful today and tomorrow. The pace is just...a bit faster. In this session I'll share how we are using the latest tools and services to build efficiently, effectively, and sustainably.
    
